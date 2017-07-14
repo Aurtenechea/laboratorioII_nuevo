@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Express 2012 for Windows Desktop
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Serializacion", "Serializacion\Serializacion.csproj", "{95589D35-2DE0-498E-A024-C1E9FEB9DA22}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SerializacionLib", "SerializaconLib\SerializacionLib.csproj", "{0FB6C678-D96D-4575-9FE5-D49BCB86C080}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{95589D35-2DE0-498E-A024-C1E9FEB9DA22}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{95589D35-2DE0-498E-A024-C1E9FEB9DA22}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{95589D35-2DE0-498E-A024-C1E9FEB9DA22}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{95589D35-2DE0-498E-A024-C1E9FEB9DA22}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0FB6C678-D96D-4575-9FE5-D49BCB86C080}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0FB6C678-D96D-4575-9FE5-D49BCB86C080}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0FB6C678-D96D-4575-9FE5-D49BCB86C080}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0FB6C678-D96D-4575-9FE5-D49BCB86C080}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
